@@ -152,6 +152,7 @@ nav ul li a:hover {
 #curiosidades h3 {
   color: #65647C;
   font-size: 1.2rem;
+  margin-bottom: 1rem;
 }
 #curiosidades h4 {
   color: #8B7E74;
@@ -160,6 +161,7 @@ nav ul li a:hover {
 #curiosidades p {
   margin-top: 5px;
   color: #65647C;
+  font-size: 1rem;
 }
 
 footer {

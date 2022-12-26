@@ -7,6 +7,7 @@
    h3 {
        color: $cor-primaria;
        font-size: $tamanho-do-texto/2.5;
+       margin-bottom: 1rem;
    }
    h4 {
        color: $cor-secundaria;
@@ -15,5 +16,7 @@
    p {
        margin-top: 5px;
        color: $cor-primaria;
+       font-size: $tamanho-do-texto/3;
+
    }
 }
