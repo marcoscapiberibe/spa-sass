@@ -13,6 +13,11 @@ Este projeto consiste em uma aplicação desenvolvida em HTML, CSS, SCSS e SASS 
 
 ----------------------
 
+# Iniciando o projeto
+
+Para iniciar a aplicação entre no endereço: https://marcoscapiberibe.github.io/spa-sass/
+
+----------------------
 
 # Tecnologias utilizadas
 
